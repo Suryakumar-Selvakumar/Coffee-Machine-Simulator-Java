@@ -7,7 +7,7 @@
     <content url="file://$MODULE_DIR$/../../../../../../../Coffee Machine Simulator with Java/task/build/classes/java/test">
       <sourceFolder url="file://$MODULE_DIR$/../../../../../../../Coffee Machine Simulator with Java/task/build/classes/java/test" isTestSource="true" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="jbr-21 (6)" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Coffee_Machine_Simulator_with_Java.Coffee_Machine_Simulator_with_Java-task-build-classes-java.main" />
     <orderEntry type="module" module-name="Coffee_Machine_Simulator_with_Java.util.main" />
