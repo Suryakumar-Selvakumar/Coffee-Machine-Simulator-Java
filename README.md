@@ -29,7 +29,7 @@ transactions. It was built step by step, with each stage adding new functionalit
 
 ## Demo
 
-<video width="1920" height="1080" align="center" src=""></video>
+<video width="1920" height="1080" align="center" src="https://github.com/user-attachments/assets/8a5d100d-a745-4372-8a5a-6d96d91d07df"></video>
 
 ## Takeaway
 
